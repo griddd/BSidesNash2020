@@ -1,1 +1,1 @@
-I'll be speaking at BSides Nashville this year :)  This repo will hold my slides, fuzzer templates, and notes from the conference
+I'll be speaking at BSides Nashville in May on effective web application fuzzing :)  This repo will hold my slides, sample fuzz templates, and notes from the conference
